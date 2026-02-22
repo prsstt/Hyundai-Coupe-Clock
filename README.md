@@ -3,6 +3,7 @@
 A high-performance, customizable OLED dashboard and trip computer for your car. Powered by the **Seeed Studio XIAO RP2040**, this project connects to your car's ECU via an ELM327 OBD2 Bluetooth adapter to display real-time telemetry, smart gear suggestions, instant fuel consumption, and smooth 1-bit animations.
 
 ![3a78ca27-afe5-48ef-bc8c-3d36977cd5f3](https://github.com/user-attachments/assets/ba7b2a24-e750-484b-82ea-529d0cb5f5a8)
+![887cd838-ca5f-4a69-b703-652de8fc7917](https://github.com/user-attachments/assets/ff09f679-9ae9-4874-a387-8dba8fc6aeec)
 
 ## ✨ Features
 
