@@ -84,6 +84,7 @@ float ratio = displayed_rpm / (float)displayed_speed;
 if (ratio > 110.0) currentGear = 1;
 else if (ratio > 68.0) currentGear = 2;
 // ... customize values here
+```
 
 ## 📜 Credits & Libraries
 
