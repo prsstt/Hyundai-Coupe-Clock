@@ -88,6 +88,7 @@ else if (ratio > 68.0) currentGear = 2;
 
 ## 📜 Credits & Libraries
 
+* **[3D Menu](https://github.com/upiir/arduino_3d_menu_oled)** by upir - For the beautiful 3D animated menu and inspiration.
 * **[U8g2](https://github.com/olikraus/u8g2)** by olikraus - For the amazing and fast graphics rendering.
 * **[ELMduino](https://github.com/PowerBroker2/ELMduino)** by powerbroker2 - For handling the complex OBD2 AT commands.
 * Icons generated via **[image2cpp](https://javl.github.io/image2cpp/)**.
